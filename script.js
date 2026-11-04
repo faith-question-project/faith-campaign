@@ -51,14 +51,14 @@ const ARTICLES = [
     label: '기사 자료 01',
     cardTitle: '교협의 신앙기록확인서 제출 기준 완화 요구',
     title: '교협, 신앙기록확인서 제출 기준 완화 요구',
-    image: 'assets/article1.jpg',
+    image: 'article1.jpg',
     alt: '신문 기사 원본 이미지: 교협에서 신앙기록확인서 제출 기준 완화 요구'
   },
   {
     label: '기사 자료 02',
     cardTitle: '교수의 전문성과 채용 기준에 관한 문제 제기',
     title: '교수의 전문성과 채용 기준에 관한 문제 제기',
-    image: 'assets/article2.jpg',
+    image: 'article2.jpg',
     alt: '신문 기사 발췌 원본 이미지: 강의 중 가장 중요한 요소로 69.4%가 교수의 전문성을 답변했다는 내용'
   }
 ];
